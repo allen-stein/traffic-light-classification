@@ -1,4 +1,3 @@
-# traffic-light-classification
 # Traffic Sign Recognition with Convolutional Neural Network
 
 This repository contains code for a Convolutional Neural Network (CNN) trained to recognize German traffic signs. The model is implemented using the Keras framework and is trained on the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
